@@ -1,5 +1,4 @@
-from pathlib import Path
-import shutil, zipfile
+
 
 base = Path("/mnt/data/mirelas_premium_website")
 base.mkdir(exist_ok=True)
